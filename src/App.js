@@ -83,7 +83,7 @@ function App() {
       >
         <header>
           <h1>
-            <Link to="/">BPM Techno &mdash; Real-Time BPM Counter</Link>
+            <Link to="/">BPM Counter &mdash; Real-Time Song Key Finder</Link>
           </h1>
           <Link to="/about" className="about">
             &#63;
@@ -126,9 +126,7 @@ function App() {
 
           {!isDebug ? (
             <p>
-              Made in 🇳🇴&nbsp; by&nbsp;
-              <a href="https://twitter.com/webmaxru/">Maxim Salnikov</a> |&nbsp;
-              <a href="https://github.com/webmaxru/bpm-counter">GitHub</a>
+              VocalRemover.Online
             </p>
           ) : (
             <p>Debugging mode</p>
