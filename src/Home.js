@@ -206,7 +206,7 @@ function Home(props) {
           <p>App does not send any audio stream data to the servers.</p>
 
           <p>
-            <H1>How to Find BPM in Any Song Online</H1>
+            <H2>How to Find BPM in Any Song Online</H2>
 <ul>
 <li>Click big button "Start Listening"</li> 
 <li>Allow access to microphone</li>    
