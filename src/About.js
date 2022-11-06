@@ -67,7 +67,7 @@ function About(props) {
       <ol>
         <li>
           Our BPM Finder is designed for DJs to help with identifying BPM
-          (beats per minute) of the track currently playing. It is absolutely free and requires no istallation.
+          (beats per minute) of the track currently playing. It is absolutely free and requires no istallation!
         </li>
  
       </ol>
