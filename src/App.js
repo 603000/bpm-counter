@@ -83,7 +83,7 @@ function App() {
       >
         <header>
           <h1>
-            <Link to="/">BPM Counter &mdash; Real-Time Song Key Finder</Link>
+            <Link to="/">BPM Counter &mdash; Real-Time Song Key Finder!</Link>
           </h1>
           <Link to="/about" className="about">
             &#63;
