@@ -206,7 +206,14 @@ function Home(props) {
           <p>App does not send any audio stream data to the servers.</p>
 
           <p>
-            NEW! <a href="/upload">BPM detection in hosted mp3/wav files</a>
+                       How to Find BPM in Any Song Online
+<ul>
+<li>Click big button "Start Listening"</li> 
+<li>Allow access to microphone</li>    
+<li>Make some noise - play some song or make a beat! for around 30-45 seconds</li>
+<li>Get result - how much beats per minute are in your sound wave.</li>
+<li>Recommend our website to a friend:)</li>
+</ul>
           </p>
         </div>
       ) : (
