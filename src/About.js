@@ -175,58 +175,7 @@ function About(props) {
           <br />
         </li>
       </ul>
-      <h3>Useful links</h3>
-      <p>Here are some links to help you get started:</p>
-      <ul>
-        <li>
-          <a href="https://aka.ms/swa-docs">
-            <strong>Detailed documentation and how-to guides</strong>
-          </a>
-        </li>
-        <li>
-          <a href="https://aka.ms/swa-learning">
-            <strong>
-              Step-by-step learning paths on deploying and configuring your apps
-              in Azure Static Web Apps
-            </strong>
-          </a>
-        </li>
-        <li>
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks/?ocid=aid3040965">
-            Sample configuration for the frontend frameworks
-          </a>
-        </li>
-        <li>
-          <a href="https://azure.microsoft.com/en-us/services/app-service/static/?ocid=aid3040965">
-            Static Web Apps on Azure - landing page
-          </a>
-        </li>
-        <li>
-          <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps">
-            Azure SWA VS Code Extension
-          </a>
-        </li>
-        <li>
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?tabs=angular">
-            Documentation - Angular
-          </a>
-        </li>
-        <li>
-          <a href="https://dev.to/azure/six-minutes-to-learn-azure-static-web-apps-ehn">
-            SWA in 6 minutes
-          </a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/watch?v=AMhhuBixb4o&ab_channel=MicrosoftAzuren">
-            Azure Friday with SWA video
-          </a>
-        </li>
-        <li>
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/add-api?ocid=aid3040965">
-            Creating API Documentation
-          </a>
-        </li>
-      </ul>
+      
     
     </main>
   );
