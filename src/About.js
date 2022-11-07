@@ -63,24 +63,7 @@ function About(props) {
 
   return (
     <main className="content">
-      <h3>This is a 3-in-1 project</h3>
-      <ol>
-        <li>
-          A <strong>real product</strong> for DJs to help with identifying BPM
-          (beats per minute) of the track currently playing.
-        </li>
-        <li>
-          A <strong>demo and playground</strong> for the&nbsp;
-          <a href="https://azure.microsoft.com/en-us/services/app-service/static/?ocid=aid3040965">
-            Azure Static Web Apps (SWA)
-          </a>
-          &nbsp; service.
-        </li>
-        <li>
-          <strong>Proof of concept</strong> for a Progressive Web App (PWA)
-          driven by Workbox-powered service worker.
-        </li>
-      </ol>
+      
       <h3>Author and credits</h3>
       <p>
         Built by <a href="https://twitter.com/webmaxru">Maxim Salnikov</a>. I
