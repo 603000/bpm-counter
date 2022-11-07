@@ -244,10 +244,7 @@ function About(props) {
           </a>
         </li>
       </ul>
-      <p>
-        Questions? Contact&nbsp;
-        <a href="https://twitter.com/webmaxru">Maxim Salnikov</a>
-      </p>
+    
     </main>
   );
 }
